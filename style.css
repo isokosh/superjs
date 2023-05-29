@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 50px;
+  background-image: linear-gradient(to right, #ff0000 , #00db37 , #b1fd00 );
+  height: 100vh;
+}
+p{
+  margin-top: 50px;
+}
+input{
+  margin-top: 20px;
+}
